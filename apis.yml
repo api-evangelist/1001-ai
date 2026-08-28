@@ -17,6 +17,17 @@ description: >-
   commitments. As of this profile, 1001 publishes no public API, developer
   documentation, or SDK; this entry captures the company's public identity and
   web properties for the API Evangelist network.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
